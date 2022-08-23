@@ -6,7 +6,11 @@ imported: '2022-08-01T10:53:23.455615'
 last_modified: '2022-08-01T10:53:23.455627'
 parser: null
 source_metadata:
-  title: ཐུང་མོང་གི་རྩ་བ།txt
+  title: ཐུང་མོང་གི་རྩ་བ།
+  base:
+    F71D:
+      title: ཐུང་མོང་གི་རྩ་བ།
+      base_file: F71D.txt
 statistics: {}
 quality: {}
 copyright:
